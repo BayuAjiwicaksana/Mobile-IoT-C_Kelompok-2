@@ -3,8 +3,8 @@ Repositori ini dibuat untuk memenuhi syarat penilaian UAS matakuliah Mobile &amp
 
 # Kelompok 2
 Daftar Anggota :
-5200411423 Bayu Ajiwicaksana
-5200411449 Rafi Aji Pangestu
-5200411456 Aziz Nur Rohman
-5200411457 Jihad
-5200411459 M. Abdurrasyid Nugroho
+1. 5200411423 Bayu Ajiwicaksana
+2. 5200411449 Rafi Aji Pangestu
+3. 5200411456 Aziz Nur Rohman
+4. 5200411457 Jihad
+5. 5200411459 M. Abdurrasyid Nugroho
