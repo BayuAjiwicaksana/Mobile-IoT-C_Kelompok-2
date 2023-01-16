@@ -1,8 +1,8 @@
 # Mobile-IoT-C_Kelompok-2
 Repositori ini dibuat untuk memenuhi syarat penilaian UAS:
 * matakuliah : Mobile &amp; IoT Kelas C,
-* Dosen Pengampu : Muhammad Henri Syuhada, S.T., M.T. <br/>
-Universitas Teknologi Yogyakarta
+* Dosen Pengampu : Muhammad Henri Syuhada, S.T., M.T.
+## Universitas Teknologi Yogyakarta ##
 
 # Kelompok 2
 Daftar Anggota :
